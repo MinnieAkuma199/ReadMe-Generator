@@ -1,1 +1,27 @@
-install inquirer
+1. Within the f of generate markdown you want to put the pieces of the readme you want to dynamically create everytime
+2. I want to ask a series of questions and generate a readme page from that:
+    I want to ask for #Project-Title
+    ## Description: motivation, why did you build this project, what problem, did it solve, 
+    what did you learn
+    ## Table of Contents 
+    ## Installation: What are the steps required to install your project?
+    ## Usage: Do you have a screenshot/gif/video if so put in this format- 
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
+    ## Contributing Links to GitHub contributors
+    ## License: ask to select one of the licenses
+    ## Tests: 
+    ## Additional Questions: What is your email address?
+    
+
+License Badge & License Link- 
+
+MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+ISC [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+Mozilla Public License 2.0 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+The Hippocratic License 3.0
+[![License: Hippocratic 3.0](https://img.shields.io/badge/License-Hippocratic_3.0-lightgrey.svg)](https://firstdonoharm.dev)
