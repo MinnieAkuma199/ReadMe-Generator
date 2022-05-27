@@ -136,6 +136,8 @@ ${response.tests}
 
 ### Additional Questions
 
+**${response.email}**
+
 ### License
 
 ${output.name}
@@ -143,7 +145,7 @@ ${output.name}
 
 ${output.text}
 
-**${response.email}**
+
 `;
     fs.writeFile("README.md", template, (err) => {
       err ? console.error(err) : console.log("You did it!");
