@@ -21,7 +21,7 @@ You need to run npm i and install inquirer. You must have node.js already instal
 
 ### Usage
 
-    ![alt text](./assets/practiceScreenshot.png)
+![alt text](./assets/practiceScreenshot.png)
 
 ### Contributors
 

@@ -75,7 +75,7 @@ ${response.installation}
 
 ### Usage
 
-    ![alt text](assets/images/${response.screenshot})
+![alt text](assets/${response.screenshot})
 
 ### Contributors
 
