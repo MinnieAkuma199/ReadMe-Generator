@@ -74,7 +74,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Enter screenshot/gif/video name(screenshot.png)",
+      message: "Enter screenshot/gif(screenshot.gif)",
       name: "screenshot",
     },
     {
