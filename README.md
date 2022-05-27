@@ -1,5 +1,7 @@
 # ReadMe-Generator
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ## Description
 
 -I wanted to create a ReadMe file quicker and more professional than what i had in the past.
@@ -21,7 +23,7 @@ You need to run npm i and install inquirer. You must have node.js already instal
 
 ### Usage
 
-![alt text](./assets/practiceScreenshot.png)
+![alt text](assets/practiceScreenshot.png)
 
 ### Contributors
 
@@ -29,9 +31,13 @@ You need to run npm i and install inquirer. You must have node.js already instal
 
 ### License
 
+MIT License
+
+Copyright (c) [2022] [Kristyn Del Campo-Banrevy]
+
 ### Tests
 
-none
+N/A
 
 ### Additional Questions
 
