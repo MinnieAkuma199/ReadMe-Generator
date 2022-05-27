@@ -116,7 +116,7 @@ ${output.badge}
 - [Contributors](#contributors)
 - [License](#license)
 - [Tests](#tests)
-- [Additional Questions](#additional-questions-)
+- [Additional Questions](#additional-questions)
 
 ### Installation
 ${response.installation}
