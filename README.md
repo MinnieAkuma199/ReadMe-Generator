@@ -22,6 +22,7 @@
 ### Installation
 
 You need to run npm i and install inquirer. You must have node.js already installed to run this program.
+Terminal command to kick off: $ node index.js 
 
 ### Usage
 
