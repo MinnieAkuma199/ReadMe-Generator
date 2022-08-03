@@ -12,17 +12,20 @@
 
 ## Table of Contents
 
+- [Technology-Used](#technology-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [License](#license)
-- [Tests](#tests)
 - [Additional Questions](#additional-questions)
+
+### Technology Used 
+
+Tech used: HTML, CSS, JavaScript, Node, Inquirer
 
 ### Installation
 
-You need to run npm i and install inquirer. You must have node.js already installed to run this program.
-Terminal command to kick off: $ node index.js 
+To run in terminal: $ npm i && node index.js
 
 ### Usage
 
@@ -32,9 +35,6 @@ Terminal command to kick off: $ node index.js
 
 **https://github.com/MinnieAkuma199**
 
-### Tests
-
-NA
 
 ### Additional Questions
 
