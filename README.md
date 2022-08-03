@@ -4,9 +4,9 @@
 
 ## Description
 
--I wanted to create a ReadMe file quicker and more professional than what i had in the past.
+- Making a new ReadMe for each project can be very taxing. I wanted to create a professional ReadMe file quicker and uniformly than what I had in the past. 
 
--I learned how to import libraries, here I used the inquirer module as well as the fs module.
+-In this project I learned how to import libraries, here I used the inquirer module as well as the fs module.
 
 [Video of Functionality of Project](https://drive.google.com/file/d/10XIJvXM0wDQZN17kRhIvtXbPMLLR4USE/view)
 
