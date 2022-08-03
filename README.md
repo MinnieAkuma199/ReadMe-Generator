@@ -29,6 +29,10 @@ To run in terminal: $ npm i  && node index.js
 
 ### Usage
 
+[Video of Functionality of Project](https://drive.google.com/file/d/10XIJvXM0wDQZN17kRhIvtXbPMLLR4USE/view)
+
+
+
 ![alt text](assets/ReadMeGenerator.gif)
 
 ### Contributors
