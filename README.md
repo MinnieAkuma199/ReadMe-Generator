@@ -25,7 +25,7 @@ Tech used: HTML, CSS, JavaScript, Node, Inquirer
 
 ### Installation
 
-To run in terminal: $ npm i && node index.js
+To run in terminal: $ npm i  && node index.js
 
 ### Usage
 
