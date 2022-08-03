@@ -21,7 +21,7 @@
 
 ### Technology Used 
 
-Tech used: HTML, CSS, JavaScript, Node, Inquirer
+Tech used: HTML, JavaScript, Node, Inquirer
 
 ### Installation
 
